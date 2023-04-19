@@ -114,13 +114,13 @@
 
 <div class="stats" align="center">
 
-![Sebastian Hernandez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebmarine&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+<!-- ![Sebastian Hernandez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebmarine&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sebmarine&count_private=true&theme=algolia&border_radius=20)
 
 <!-- compact programming languages layout -->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebmarine&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebmarine&layout=compact&show_icons=true&theme=algolia&border_radius=20) -->
 
 </div>
 <!--  End Stats Cards -->
